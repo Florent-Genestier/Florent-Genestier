@@ -8,6 +8,6 @@
 -🔭 I’m currently working on a sales project and local tourism location
 
 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-mail: florentgenestier@live.fr
+mail: florentgenestier@gmail.com
 linkedin: www.linkedin.com/in/florent-genestier/
 
