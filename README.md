@@ -5,7 +5,7 @@
 
 
 ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-🔭 I’m currently working on a sales project and local tourism location
+🔭 I’m currently working like a PHP/Symfony developer in PGDIS, Enval 63530 - France.
 
 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 mail: florentgenestier@gmail.com
